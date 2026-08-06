@@ -1,10 +1,12 @@
 # Hi 👋, I'm Mauricio Vera
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&pause=900&color=5A9756&vCenter=true&width=435&lines=Mauricio+Vera+Here+%F0%9F%91%8B+!!;CS+student+%26+photographer+as+a+hobby;Getting+into+Cybersecurity;Consistency+over+perfection)](https://git.io/typing-svg)
+
 ### Learning more and more everyday 
 
-- 🔭 I'm currently working on a SIEM project
+- 🎓 Final year CS student
 
-- 🌱 I'm currently learning Cybersecurity
+- 🔭 I'm currently working on a SIEM project
 
 - 👯 I'm looking to collaborate on open source projects
 
